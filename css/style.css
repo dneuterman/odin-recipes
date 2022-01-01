@@ -1,0 +1,55 @@
+body {
+    background-color: antiquewhite;
+    font-family: Helvetica, sans-serif;
+}
+
+.title {
+    font-size: 4em;
+    padding: 100px 0;
+}
+
+.container {
+    margin: 0 auto;
+    width: 60%;
+    background-color: darksalmon;
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+.section {
+    background-color: rgb(70, 207, 196);
+    padding: 25px 0;
+    margin: 0;
+    font-size: 2em;
+}
+
+.recipe-list {
+    padding: 50px 0;
+}
+
+.recipe-list li {
+    padding: 15px 0;
+}
+
+.container.recipe {
+    text-align: left;
+}
+
+.recipe-section {
+    padding-left: 30px;
+}
+
+.content {
+    padding: 30px;
+    font-size: 1.2em;
+}
+
+img {
+    height: auto;
+    width: 700px;
+    margin-bottom: 50px;
+    padding-left: 30px;
+}
